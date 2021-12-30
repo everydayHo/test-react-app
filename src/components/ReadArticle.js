@@ -1,7 +1,7 @@
 import React from 'react';
 import '../App.css';
 
-class Article extends React.Component {
+class ReadArticle extends React.Component {
   render() {
     return (
       <article>
@@ -11,4 +11,4 @@ class Article extends React.Component {
     );
   }
 }
-export default Article;
+export default ReadArticle;
